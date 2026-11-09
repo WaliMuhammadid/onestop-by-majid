@@ -1,0 +1,6 @@
+{
+  "name": "AURA - Minimalist E-Commerce & Secure Admin",
+  "description": "An aesthetic, minimalist e-commerce platform with full catalog filters, persistent cart, real-time search, checkout flows, and a secret role-based admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

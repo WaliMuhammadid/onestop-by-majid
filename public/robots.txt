@@ -1,0 +1,8 @@
+# robots.txt for AURA Minimalist Storefront
+User-agent: *
+Allow: /
+Disallow: /control-x7k2
+Disallow: /api/admin/
+Disallow: /admin
+
+Sitemap: https://aura-studio.com/sitemap.xml
